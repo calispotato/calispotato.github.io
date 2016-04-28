@@ -70,7 +70,13 @@ var CONFIG = {
     } 
   },
   "gameover": {
-    "text": "Game\nOver",
+    "text": { 
+      "Game\nOver",
+      "Git\nsome\nskill",
+      "You\nchose\nblue",
+      "You\npleb",
+      "you took\na wrong turn at\nalbuquerque"
+    }
     "offset": -150,
     "style": {
       "font": "100px sans-serif", 
