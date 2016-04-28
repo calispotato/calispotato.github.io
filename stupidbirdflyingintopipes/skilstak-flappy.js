@@ -75,7 +75,7 @@ var CONFIG = {
       "Git\nsome\nskill",
       "You\nchose\nblue",
       "You\npleb",
-      "you took\na wrong turn at\nalbuquerque"
+      "youtook\nawrongturnat\nalbuquerque"
     },
     "offset": -150,
     "style": {
