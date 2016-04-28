@@ -76,7 +76,7 @@ var CONFIG = {
       "You\nchose\nblue",
       "You\npleb",
       "you took\na wrong turn at\nalbuquerque"
-    }
+    },
     "offset": -150,
     "style": {
       "font": "100px sans-serif", 
